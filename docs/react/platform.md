@@ -79,5 +79,5 @@ type PlatformConfig = {
   phablet?: ((win: Window) => boolean) | undefined;
   pwa?: ((win: Window) => boolean) | undefined;
   tablet?: ((win: Window) => boolean) | undefined;
-};
+};2
 ```
